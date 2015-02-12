@@ -1,15 +1,15 @@
 CACHE MANIFEST
 
-//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css
-//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
-//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js
-//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/fonts/glyphicons-halflings-regular.woff2
-//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/fonts/glyphicons-halflings-regular.woff
-//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/fonts/glyphicons-halflings-regular.ttf
+css/bootstrap.min.css
+js/jquery.min.js
+js/bootstrap.min.js
+fonts/glyphicons-halflings-regular.woff2
+fonts/glyphicons-halflings-regular.woff
+fonts/glyphicons-halflings-regular.ttf
 
 
-moegirl-style.css
-jquery.pjax.js
+css/moegirl-style.css
+js/jquery.pjax.js
 
 NETWORK:
 *
