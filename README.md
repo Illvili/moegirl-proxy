@@ -11,4 +11,4 @@
 请见[萌娘百科:版权信息][moegirlcopyrights]
 
 
-[moegirlcopyrights]: (http://zh.moegirl.org/%E8%90%8C%E5%A8%98%E7%99%BE%E7%A7%91:%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF) "萌娘百科:版权信息"
+[moegirlcopyrights]: http://zh.moegirl.org/%E8%90%8C%E5%A8%98%E7%99%BE%E7%A7%91:%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF  "萌娘百科:版权信息"
